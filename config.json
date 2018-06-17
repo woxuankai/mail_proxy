@@ -1,0 +1,14 @@
+{
+  "imap":{
+    "server_addr" : "impa.163.com",
+    "server_port" : 143,
+    "server_ssl" : false,
+    "local_addr" : "127.0.0.1",
+    "local_port" : 143,
+    "local_ssl" : true,
+    "local_ssl_certificate" : "",
+    "local_ssl_certificate_key" : ""
+  },
+  "smtp":{
+  }
+}
